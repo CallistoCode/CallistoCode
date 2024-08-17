@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @CallistoCode
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning GDScript and Godot
+- 😄 Pronouns: He/Him
